@@ -8,7 +8,8 @@
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "layer_lock": true
     },
     "split": {
         "enabled": true,
